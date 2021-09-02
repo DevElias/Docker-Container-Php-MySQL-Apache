@@ -102,4 +102,5 @@ IMPORTANTE:
 ```  
     lib/php/7.4
 ```
-[image](https://user-images.githubusercontent.com/14336962/131772123-98d1c6e1-dd71-4387-a8a0-a6bcbecba99c.png)
+![image](https://user-images.githubusercontent.com/14336962/131772257-fb2d0a21-875b-49b3-8715-f0376fcf0c48.png)
+

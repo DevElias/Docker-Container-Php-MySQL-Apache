@@ -1,5 +1,5 @@
 # Docker-Container-Php-MySQL-Apache
-Imagem do Docker configurado php 7.4 MySQL 5;7 e Apache 2.4.32
+Imagem do Docker configurado php 7.4 MySQL 5.7 e Apache 2.4.32
 
 ### Intro
 ```
@@ -96,5 +96,10 @@ networks:
 volumes:
     data:
 ```
+IMPORTANTE:
 
+- Para configurar o php.ini do container em questão você deverá acessar o diretório:
+```  
+    lib/php/7.4
+```
 

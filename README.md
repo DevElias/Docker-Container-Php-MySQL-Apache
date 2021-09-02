@@ -20,7 +20,7 @@ Imagem do Docker configurado php 7.4 MySQL 5.7 e Apache 2.4.32
 No index.php tem apenas um teste de conexão MySQL para informar ao Dev se o container MySQL esta funcionando.
 
 #### .env
-Toda coniguração de variaveis de ambiente deste container está neste env, aqui vc configura a versão do PHP, MyDQL e Apache que você irá criar a imagem.
+Toda configuração de variaveis de ambiente deste container está neste env, aqui você configura a versão do PHP, MySQL e Apache que você irá criar a imagem.
 
 Abaixo Documentação Técnica:
 

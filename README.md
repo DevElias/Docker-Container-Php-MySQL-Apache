@@ -102,4 +102,4 @@ IMPORTANTE:
 ```  
     lib/php/7.4
 ```
-
+file:///home/elias/Imagens/dir.png![image](https://user-images.githubusercontent.com/14336962/131772123-98d1c6e1-dd71-4387-a8a0-a6bcbecba99c.png)

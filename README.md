@@ -2,7 +2,7 @@
 Imagem do Docker configurado php 7.4 MySQL 5;7 e Apache 2.4.32
 
 ### Intro
-
+```
 /php-apache-mysql/
 ├── apache
 │   ├── Dockerfile
@@ -17,17 +17,14 @@ Imagem do Docker configurado php 7.4 MySQL 5;7 e Apache 2.4.32
 ```
 
 #### index.php
-```
 No index.php tem apenas um teste de conexão MySQL para informar ao Dev se o container MySQL esta funcionando.
 
 #### .env
-```
 Toda coniguração de variaveis de ambiente deste container está neste env, aqui vc configura a versão do PHP, MyDQL e Apache que você irá criar a imagem.
 
-Abaixo DOcumentação Técnica:
+Abaixo Documentação Técnica:
 
 #### info.php
-```
 Irá te apoiar a ver a versão do PHP do Container que esta rodando
 
 #### apache/Dockerfile
@@ -36,6 +33,7 @@ FROM httpd:2.4.33-alpine
 
 RUN apk update; \
     apk upgrade;
+```
 
 #### php/Dockerfile
 ```
